@@ -20,7 +20,7 @@ Users of this data package should cite it as follows:
 
 Users should also include citation to the relevant initial publication of these data, based on which samples and/or sources are used.  If in doubt, users should cite all of the following:
 
-* Boulanger, Matthew T., Michael Adler, Jeffrey L. Boyer, and Mark Henderson. (Under Review) 'Our Work Will Continue': Geochemical Sourcing by XRF of Obsidian in the Collections of Helen Greene Blumenschein. Submitted to /Kiva/, June 5, 2022.
+* Boulanger, Matthew T., Michael Adler, Jeffrey L. Boyer, and Mark Henderson. (Under Review) 'Our Work Will Continue': Geochemical Sourcing by XRF of Obsidian in the Collections of Helen Greene Blumenschein. Submitted to Kiva, June 5, 2022.
 
 ## Authors
 
